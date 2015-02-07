@@ -14,7 +14,7 @@ int main()
 	int InputSecs, minutes, hours, res_minutes, res_seconds; 
 
 	cout << "Tids Konverter V" << version << endl;
-	cout << "Antall sekunder for konvertering? : ";  ''
+	cout << "Antall sekunder for konvertering? : "; 
 	cin >> InputSecs;
 
 	hours = InputSecs / secPerHour; 
