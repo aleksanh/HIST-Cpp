@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oving1_oppgave1", "oving1_o
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oving1_oppgave2", "oving1_oppgave2\oving1_oppgave2.vcxproj", "{814B7EB1-4120-4464-BFCC-D084E8A3BE9A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oving2_oppgave1", "oving2_oppgave1\oving2_oppgave1.vcxproj", "{14DF7C04-BA7D-4ACF-B98C-A8CB7260CAC1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oving2_oppgave3", "oving2_oppgave3\oving2_oppgave3.vcxproj", "{04A05AAC-C56D-4D0B-B68C-002CC8B45319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +31,14 @@ Global
 		{814B7EB1-4120-4464-BFCC-D084E8A3BE9A}.Debug|Win32.Build.0 = Debug|Win32
 		{814B7EB1-4120-4464-BFCC-D084E8A3BE9A}.Release|Win32.ActiveCfg = Release|Win32
 		{814B7EB1-4120-4464-BFCC-D084E8A3BE9A}.Release|Win32.Build.0 = Release|Win32
+		{14DF7C04-BA7D-4ACF-B98C-A8CB7260CAC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14DF7C04-BA7D-4ACF-B98C-A8CB7260CAC1}.Debug|Win32.Build.0 = Debug|Win32
+		{14DF7C04-BA7D-4ACF-B98C-A8CB7260CAC1}.Release|Win32.ActiveCfg = Release|Win32
+		{14DF7C04-BA7D-4ACF-B98C-A8CB7260CAC1}.Release|Win32.Build.0 = Release|Win32
+		{04A05AAC-C56D-4D0B-B68C-002CC8B45319}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04A05AAC-C56D-4D0B-B68C-002CC8B45319}.Debug|Win32.Build.0 = Debug|Win32
+		{04A05AAC-C56D-4D0B-B68C-002CC8B45319}.Release|Win32.ActiveCfg = Release|Win32
+		{04A05AAC-C56D-4D0B-B68C-002CC8B45319}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
